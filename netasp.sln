@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netasp", "netasp\netasp.csproj", "{0D44CE86-A6E1-48DA-888B-6BB36D2EE5EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netasp.Tests", "netasp.Tests\netasp.Tests.csproj", "{DE8A9EF0-051C-4271-950B-AE36A75E44EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D44CE86-A6E1-48DA-888B-6BB36D2EE5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D44CE86-A6E1-48DA-888B-6BB36D2EE5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D44CE86-A6E1-48DA-888B-6BB36D2EE5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D44CE86-A6E1-48DA-888B-6BB36D2EE5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8A9EF0-051C-4271-950B-AE36A75E44EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8A9EF0-051C-4271-950B-AE36A75E44EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8A9EF0-051C-4271-950B-AE36A75E44EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8A9EF0-051C-4271-950B-AE36A75E44EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
